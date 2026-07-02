@@ -8,15 +8,23 @@ Repository ini bertujuan menyajikan tahapan analisis secara sistematis dan terdo
 ___
 
 ## STRUKTUR REPOSITORY
+# 📂 Struktur Repository
 
-UAS-Teknik-Sampling/
+```
+Estimasi-Tingkat-Kemandirian-Belajar/
 │
-├── README.md
-├── Analisis.R
-├── TEKNIK SAMPLING UAS.xlsx
-├── Executive Summary.docx
-└── Pertanyaan Kuisioner.pdf
-
+├── 📄 README.md
+│   Dokumentasi proyek penelitian.
+│
+├── 📄 TEKNIK SAMPLING UAS.xlsx
+│   Dataset hasil survei.
+│
+├── 📄 Analisis_Kemandirian_Belajar.R
+│   Script analisis menggunakan R.
+│
+└── 📄 Laporan_UAS.pdf
+    Laporan hasil penelitian.
+```
 Keterangan:
 README.md → Dokumentasi proyek.
 Analisis.R → Script lengkap analisis data menggunakan R.
